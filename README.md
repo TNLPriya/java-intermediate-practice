@@ -1,4 +1,4 @@
-# Java Intermediate Practice 🚀
+# Java Intermediate Practice 
 
 Day 2 Java programs focusing on Arrays and Strings.
 
